@@ -9,14 +9,13 @@ Here's a preview of the sidebar:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/5dc969aa-bfd5-4885-8f34-f964edf6a402" alt="Sidebar Screenshot 1" width="90" height="850" /></td>
-    <td><img src="https://github.com/user-attachments/assets/f4010e16-a4fa-455e-92f9-396991b8ea0d" alt="Sidebar Screenshot 2" width="300" height="850" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1ced0141-fabf-4d1d-a184-5131abd0b4b6" alt="Sidebar Screenshot 2" width="300" height="850" /></td>
   </tr>
 </table>
 
 ## 🚀 Live Demo
 
-🔗  Try it live now:- [SLIDEBAR-1](https://innovativesumit.github.io/SLIDEBAR-1/)
+🔗  Try it live now:- [SLIDEBAR-5](https://innovativesumit.github.io/SLIDEBAR-5/)
 
 
 
